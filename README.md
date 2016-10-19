@@ -1,4 +1,4 @@
-#Meet Geek - Meet Geek won first prize of $1000 for best use of Seat Geek's API
+#Meet Geek won first prize of $1000 for best use of Seat Geek's API
 <p align="center">
 <img align="center" src="meetgeek.gif" height="50%" width="50%" alt=""/>
 
